@@ -1,1 +1,4 @@
-# The reposity for storing the code and img analysis of my process of learing Algorithm and DataStructrue
+# A code and img analysis repository 
+
+I build this repo to store my Algorithm and DataStructre codes and analysis imgs ( C language version )
+
