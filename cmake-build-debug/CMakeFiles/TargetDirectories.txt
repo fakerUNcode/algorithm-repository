@@ -1,0 +1,2 @@
+/Users/apple/Desktop/git/Algorithm and DataStructrue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/git/Algorithm and DataStructrue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
