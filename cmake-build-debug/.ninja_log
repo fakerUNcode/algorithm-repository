@@ -1,0 +1,4 @@
+# ninja log v5
+0	35	1731655803580286958	CMakeFiles/new_target.dir/Tree/binary_tree/Traversal/breadth-first_traversal.c.o	1b30dc43691272bc
+0	35	1731655803580237166	CMakeFiles/new_target.dir/Tree/binary_tree/binary_tree.c.o	509cea2d8f2a4aac
+0	43	1731655830126156291	build.ninja	382257bfda3612f9

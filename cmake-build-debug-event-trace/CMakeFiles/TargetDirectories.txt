@@ -1,0 +1,3 @@
+/Users/apple/Desktop/git/Algorithm_and_DataStructrue/cmake-build-debug-event-trace/CMakeFiles/new_target.dir
+/Users/apple/Desktop/git/Algorithm_and_DataStructrue/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/git/Algorithm_and_DataStructrue/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir
