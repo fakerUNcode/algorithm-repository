@@ -2,7 +2,7 @@
 	"entries" : 
 	[
 		{
-			"name" : "Algorithm_and_DataStructrue_BINARY_DIR",
+			"name" : "AlgorithmAndDataStructure_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -11,10 +11,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Desktop/git/Algorithm and DataStructrue/cmake-build-debug"
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue/cmake-build-debug"
 		},
 		{
-			"name" : "Algorithm_and_DataStructrue_IS_TOP_LEVEL",
+			"name" : "AlgorithmAndDataStructure_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -26,7 +26,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Algorithm_and_DataStructrue_SOURCE_DIR",
+			"name" : "AlgorithmAndDataStructure_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -35,7 +35,43 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Desktop/git/Algorithm and DataStructrue"
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue"
+		},
+		{
+			"name" : "Algorithm_and_DataStructure_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue/cmake-build-debug"
+		},
+		{
+			"name" : "Algorithm_and_DataStructure_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Algorithm_and_DataStructure_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/apple/Desktop/git/Algorithm and DataStructrue/cmake-build-debug"
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +551,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Desktop/git/Algorithm and DataStructrue/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -575,7 +611,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/apple/Desktop/git/Algorithm and DataStructrue"
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -855,7 +891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Project"
+			"value" : "Algorithm_and_DataStructure"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1163,7 +1199,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Desktop/git/Algorithm and DataStructrue/cmake-build-debug"
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue/cmake-build-debug"
 		},
 		{
 			"name" : "Project_IS_TOP_LEVEL",
@@ -1187,7 +1223,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/apple/Desktop/git/Algorithm and DataStructrue"
+			"value" : "/Users/apple/Desktop/git/Algorithm_and_DataStructrue"
 		}
 	],
 	"kind" : "cache",
